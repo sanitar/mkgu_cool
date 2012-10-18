@@ -17,7 +17,7 @@ $(document).ready(function() {
     
     $(document).click(
         function(e){
-            if ($(e.target).parents().filter('.block.search').length != 1) {
+            if ($(e.target).parents().filter('.block.search .content').length != 1) {
                 $(".search_result").slideUp();
                 $(".block.search .box1 img").animate({
                     height: '117px'

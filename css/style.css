@@ -279,7 +279,7 @@ body {
   max-width: 50px;
 }
 .wrapper .search .content {
-  padding: 35px 0 17px 0;
+  padding: 35px 0 15px 0;
   background: #333333;
 }
 .wrapper .search .content .field {
@@ -315,7 +315,7 @@ body {
 }
 .wrapper .search .content .clarify {
   font: 10px 'Verdana', sans-serif;
-  height: 12px;
+  height: 14px;
 }
 .wrapper .search .content .clarify span {
   color: #999999;

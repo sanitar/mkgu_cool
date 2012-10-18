@@ -83,5 +83,5 @@ $(window).bind('scroll',function(e){
 function parallaxScroll(){
     var scrolled = $(window).scrollTop();
     $('#parallax-bg1').css('top',(120-(scrolled*0.7))+'px');
-    $('#parallax-bg2').css('top',(735-(scrolled*2))+'px');
+    $('#parallax-bg2').css('top',(735-(scrolled*2.3))+'px');
 }

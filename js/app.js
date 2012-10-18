@@ -25,6 +25,7 @@ $(document).ready(function() {
             }
         }
     );
+
     
     $("#search_service a.type").toggle(function() {
        boxSlidingUp($(this));

@@ -459,6 +459,10 @@ body {
   padding: 5px 0 4px 30px;
   margin-left: 195px;
 }
+.wrapper .content a.login i {
+  border-bottom: 1px dotted;
+  font-style: normal;
+}
 .wrapper .content a.login:hover {
   color: #990000;
   background: url('../images/login_button.png') 0 100% no-repeat;

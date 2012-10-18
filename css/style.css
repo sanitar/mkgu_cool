@@ -229,36 +229,36 @@ body {
   margin-right: 25px;
 }
 .wrapper .header .menu li a {
-  height: 17px;
+  height: 19px;
   display: block;
 }
 .wrapper .header .menu li.item1 a {
-  width: 58px;
+  width: 46px;
   background: url('../images/menu_items.png');
 }
 .wrapper .header .menu li.item1 a:hover {
   background: url('../images/menu_items.png') 0 100%;
 }
 .wrapper .header .menu li.item2 a {
-  width: 93px;
-  background: url('../images/menu_items.png') -86px 0;
+  width: 71px;
+  background: url('../images/menu_items.png') -87px 0;
 }
 .wrapper .header .menu li.item2 a:hover {
-  background: url('../images/menu_items.png') -86px 100%;
+  background: url('../images/menu_items.png') -87px 100%;
 }
 .wrapper .header .menu li.item3 a {
-  width: 162px;
-  background: url('../images/menu_items.png') -197px 0;
+  width: 129px;
+  background: url('../images/menu_items.png') -199px 0;
 }
 .wrapper .header .menu li.item3 a:hover {
-  background: url('../images/menu_items.png') -197px 100%;
+  background: url('../images/menu_items.png') -199px 100%;
 }
 .wrapper .header .menu li.item4 a {
-  width: 95px;
-  background: url('../images/menu_items.png') -366px 0;
+  width: 75px;
+  background: url('../images/menu_items.png') -368px 0;
 }
 .wrapper .header .menu li.item4 a:hover {
-  background: url('../images/menu_items.png') -366px 100%;
+  background: url('../images/menu_items.png') -368px 100%;
 }
 .wrapper .search {
   position: absolute;
@@ -460,8 +460,8 @@ body {
   margin-left: 195px;
 }
 .wrapper .content a.login i {
-  border-bottom: 1px dotted;
-  font-style: normal;
+  border-bottom: 1px dotted;
+  font-style: normal;
 }
 .wrapper .content a.login:hover {
   color: #990000;
